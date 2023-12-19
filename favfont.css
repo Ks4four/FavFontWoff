@@ -707,7 +707,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('woff2/sarasa-mono-sc-light-nerd-font.woff2') format('woff2'),
+	src: url('woff2/sarasa-mono-sc-light-nerd-font.woff2') format('woff2');
 }
 
 @font-face {
@@ -716,5 +716,5 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('woff2/sarasa-mono-sc-extralightitalic-nerd-font.woff2') format('woff2')
+	src: url('woff2/sarasa-mono-sc-extralightitalic-nerd-font.woff2') format('woff2');
 }
