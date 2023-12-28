@@ -825,3 +825,66 @@
 	font-style: italic;
 	src: url('woff2/iAWriterQuattroS-Italic.woff2') format('woff2');
 }
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/Iosevka-Medium.woff2') format('woff2'), url('ttf/Iosevka-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pf';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/19.0d5e3-SC-Medium.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'pf';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/19.0d5e3-SC-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'pf';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/19.0d5e3-SC-Semibold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'pf';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/19.0d5e3-SC-Light.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'pf';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/19.0d5e3-SC-Thin.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'pf';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/19.0d5e3-SC-Ultralight.woff2') format('woff2');
+}
