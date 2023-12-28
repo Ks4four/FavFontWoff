@@ -718,3 +718,111 @@
 	font-style: italic;
 	src: url('woff2/sarasa-mono-sc-extralightitalic-nerd-font.woff2') format('woff2');
 }
+
+@font-face {
+	font-family: 'iAWriter Duo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/iAWriterDuoS-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Duo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/iAWriterDuoS-Bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Duo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('woff2/iAWriterDuoS-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Duo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('woff2/iAWriterDuoS-Italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/iAWriterMonoS-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/iAWriterMonoS-Bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Mono Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('woff2/iAWriterMonoS-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Mono Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('woff2/iAWriterMonoS-Italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Quattro Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/iAWriterQuattroS-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Quattro Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('woff2/iAWriterQuattroS-Bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Quattro Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('woff2/iAWriterQuattroS-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'iAWriter Quattro Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('woff2/iAWriterQuattroS-Italic.woff2') format('woff2');
+}
