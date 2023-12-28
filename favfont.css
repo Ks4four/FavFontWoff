@@ -841,7 +841,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('woff2/19.0d5e3-SC-Medium.woff2') format('woff2');
+	src: url('woff2/190-SC-Medium.woff2') format('woff2');
 }
 
 @font-face {
@@ -850,7 +850,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('woff2/19.0d5e3-SC-Regular.woff2') format('woff2');
+	src: url('woff2/190-SC-Regular.woff2') format('woff2');
 }
 
 @font-face {
@@ -859,7 +859,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('woff2/19.0d5e3-SC-Semibold.woff2') format('woff2');
+	src: url('woff2/190-SC-Semibold.woff2') format('woff2');
 }
 
 @font-face {
@@ -868,7 +868,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('woff2/19.0d5e3-SC-Light.woff2') format('woff2');
+	src: url('woff2/190-SC-Light.woff2') format('woff2');
 }
 
 @font-face {
@@ -877,7 +877,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('woff2/19.0d5e3-SC-Thin.woff2') format('woff2');
+	src: url('woff2/190-SC-Thin.woff2') format('woff2');
 }
 
 @font-face {
@@ -886,5 +886,5 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('woff2/19.0d5e3-SC-Ultralight.woff2') format('woff2');
+	src: url('woff2/190-SC-Ultralight.woff2') format('woff2');
 }
